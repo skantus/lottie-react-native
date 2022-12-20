@@ -17,7 +17,7 @@ Install `lottie-react-native` (latest):
 yarn add lottie-react-native
 ```
 
-For `lottie-react-native` <= 5.1.4 you also need to install `lottie-ios@3.4.1` package:
+For `lottie-react-native` < 5.1.4 you also need to install `lottie-ios@3.4.1` package:
 ```
 yarn add lottie-ios@3.4.1
 ```
